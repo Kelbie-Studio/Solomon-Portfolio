@@ -52,4 +52,4 @@ Contact
 
 Email: nwabamsolomon@gmail.com
 
-Portfolio Link: (coming soon)
+Portfolio Link: https://kelbie-studio.github.io/Kelbie-Portfolio/
